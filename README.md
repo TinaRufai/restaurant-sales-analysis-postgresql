@@ -86,24 +86,23 @@ This project answers the following business questions:
 
 ---
 
-## 📁 Repository Structure
+## 💡 Recommendations
 
-```
-restaurant-sales-analysis-postgresql/
-│
-├── README.md
-├── restaurant_sales_analysis.sql
-├── Restaurant_Sales_Analysis_Presentation.pdf
-├── images/
-│   └── project_preview.png
-└── dataset/
-    ├── menu_items.csv
-    └── order_details.csv
-```
+Based on the analysis, the following recommendations can help improve restaurant performance:
+
+- Promote high-performing menu items through marketing campaigns and combo offers to maximize revenue.
+- Review the pricing and popularity of low-performing dishes to determine whether they should be repriced, improved, or removed from the menu.
+- Introduce upselling strategies by pairing popular items with complementary products to increase average order value.
+- Monitor customer ordering patterns regularly to identify changing preferences and seasonal trends.
+- Continue leveraging SQL-driven reporting to support informed business decisions and optimize restaurant operations.
 
 ---
 
+## 📎 Project Files
 
----
+The complete project files are included in this repository:
 
-⭐ If you found this project interesting, feel free to star the repository!
+- **`restaurant_sales_analysis.sql`** – Contains all SQL queries used to explore and analyze the dataset.
+- **`Restaurant Sales Analysis.pdf`** – Presentation summarizing the project's objectives, analysis, and key findings.
+
+Feel free to explore these files for a detailed walkthrough of the analysis and SQL implementation.interesting, feel free to star the repository!
